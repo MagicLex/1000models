@@ -1,5 +1,4 @@
-hopsworks==4.2.*
-pandas>=1.3.0
+hopsworks[python]==4.2.*
 scikit-learn>=1.0.0
 xgboost>=1.5.0
 joblib>=1.0.0
